@@ -10,3 +10,6 @@
 [submodule "ROCKPIS-SSD1306"]
 	path = ROCKPIS-SSD1306
 	url = https://github.com/franeum/rockpis_ssd1306.git
+[submodule "ROCKPIS-CIRCUIT-DESIGN"]
+	path = ROCKPIS-CIRCUIT-DESIGN
+	url = https://github.com/franeum/rockpis_circuit_design.git
