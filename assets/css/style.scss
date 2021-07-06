@@ -1,0 +1,28 @@
+---
+---
+
+@import "jekyll-theme-slate";
+
+body {
+    box-sizing: border-box;
+    color: #373737;
+    background: #212121;
+    font-size: 24px !important;
+    font-family: "Myriad Pro", Calibri, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+}
+
+.inner {
+    max-width: 960px;
+}
+
+#project_tagline {
+    font-size: 32px;
+}
+
+pre,
+code {
+    font-size: 0.88em;
+    font-family: monospace;
+}

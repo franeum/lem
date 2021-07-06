@@ -1,0 +1,18 @@
+[submodule "ROCKPIS-AP-SERVER"]
+	path = ROCKPIS-AP-SERVER
+	url = https://github.com/franeum/rockpis_server_ap.git
+[submodule "ROCKPIS-CIRCUIT-DESIGN"]
+	path = ROCKPIS-CIRCUIT-DESIGN
+	url = https://github.com/franeum/rockpis_circuit_design.git
+[submodule "ROCKPIS-SSD1306"]
+	path = ROCKPIS-SSD1306
+	url = https://github.com/franeum/rockpis_ssd1306.git
+[submodule "ROCKPIS-SYSTEMD"]
+	path = ROCKPIS-SYSTEMD
+	url = https://github.com/franeum/rockpis-systemd.git
+[submodule "ROCKPIS-SERVER"]
+	path = ROCKPIS-SERVER
+	url = https://github.com/franeum/rockpis_server.git
+[submodule "ROCKPIS-ESP32-CONTROLLER"]
+	path = ROCKPIS-ESP32-CONTROLLER
+	url = https://github.com/franeum/rockpis_esp32_controller.git
